@@ -1,3 +1,3 @@
 # Dasha Cano Web site
 
-This is the repository of [Dasha Cano](github.com/dashacano) for personal web site hosting.
+This is [Dasha Cano's](github.com/dashacano) repository for personal website hosting.
