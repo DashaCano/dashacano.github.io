@@ -100,7 +100,8 @@ h1, h2, h3, h4, h5, h6, figure {
   bottom: 0;
   left: 0;
   right: 0;
-  background: rgba(223, 0, 255, 0.9);
+  /* background: rgba(223, 0, 255, 0.7); */
+  background: linear-gradient(0deg, rgba(216,13,244,0.695098107602416) 30%, rgba(34,193,195,0.695098107602416) 100%);
 }
 #fh5co-header .display-t,
 .fh5co-cover .display-t {
